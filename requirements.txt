@@ -1,0 +1,12 @@
+pandas
+numpy
+requests
+BeautifulSoup4
+Scrapy
+Selenium
+scikit-learn
+nltk
+spacy
+gensim
+matplotlib
+wordcloud
